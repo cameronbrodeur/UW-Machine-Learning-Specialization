@@ -1,7 +1,7 @@
 # UW-Machine-Learning-Specialization
 My coursework from the University of Washington Machine Learning Specialization
 
-# Description
+## Description
 The specialization is divided into four courses, each approximately 6 weeks in length:
 * Machine Learning Foundations: A Case Study Approach
 * Machine Learning: Regression
